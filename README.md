@@ -1,4 +1,4 @@
-# TeamSystem Backend Demo (FastAPI)
+# TeamSystem Backend (FastAPI)
 
 A minimal backend service demonstrating a clean FastAPI structure with test coverage.
 
