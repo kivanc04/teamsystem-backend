@@ -2,3 +2,18 @@
 __pycache__/
 *.pyc
 .env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Env files
+.env
+
+# OS
+.DS_Store
