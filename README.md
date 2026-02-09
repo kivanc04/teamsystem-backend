@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # teamsystem-backend-demo
-=======
 # TeamSystem Backend Sample (FastAPI)
 
 A minimal FastAPI backend service with health check endpoint and test coverage.
