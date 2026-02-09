@@ -10,6 +10,18 @@ A minimal FastAPI backend service with health check endpoint and test coverage.
 - Uvicorn
 - Pytest
 
+## API Endpoints
+
+- GET /health  
+  Health check endpoint
+
+- GET /items  
+  Returns item list
+
+- POST /items  
+  Creates a new item
+
+
 ## Run locally
 ```bash
 source .venv/bin/activate
